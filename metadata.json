@@ -1,0 +1,6 @@
+{
+  "name": "Dolphin Ride",
+  "description": "Nepal's premier ride hailing app - Fast, Safe, Nepali. Powered by Gemini API to help you plan rides, query fares, and navigate Nepalese cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
